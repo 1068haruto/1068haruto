@@ -21,14 +21,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=1068haruto&show_icons=true&theme=dark&hide_border=true&count_private=true" width="32%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1068haruto&layout=compact&theme=dark&hide_border=true" width="24%" />
-
 <br/>
-
-<img src="https://streak-stats.demolab.com/?user=1068haruto&theme=dark&hide_border=true" width="70%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer" width="100%"/>
 
